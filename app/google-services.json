@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728407414405",
+    "firebase_url": "https://dressesgallery-d694c.firebaseio.com",
+    "project_id": "dressesgallery-d694c",
+    "storage_bucket": "dressesgallery-d694c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728407414405:android:b2f6b6b5e2334ee6af7bec",
+        "android_client_info": {
+          "package_name": "com.example.dressesgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728407414405-e71h91el3mg4fkrc97psb5rclra186ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dressesgallery",
+            "certificate_hash": "57ee5874e8335047fa4efee4964b3e65e131d800"
+          }
+        },
+        {
+          "client_id": "728407414405-pmhn757j12jd8lknkl67377ethpe5doi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD675bfl8eDyvjyRzidtOOkfZOJNnVBV_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728407414405-pmhn757j12jd8lknkl67377ethpe5doi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
